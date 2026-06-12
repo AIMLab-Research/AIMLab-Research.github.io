@@ -229,3 +229,52 @@ footer {
   margin: 0;
   line-height: 1.55;
 }
+
+.positions-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 24px;
+}
+
+.position-card {
+  border: 1px solid #d6d6d6;
+  border-radius: 6px;
+  padding: 28px 24px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.position-card h3 {
+  font-size: 26px;
+  margin: 0;
+}
+
+.position-title {
+  font-size: 21px;
+  margin-top: 4px;
+  margin-bottom: 28px;
+}
+
+.position-image {
+  height: 160px;
+  margin: 20px 0 28px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #d9d9d9;
+  background-color: #f4f7fb;
+  color: #003f7f;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.position-card p {
+  font-size: 18px;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.position-card .position-title {
+  text-align: center;
+}
