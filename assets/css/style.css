@@ -289,3 +289,12 @@ footer {
   text-align: justify;
   text-justify: inter-word;
 }
+
+.news-box h2 {
+  color: #b00020;
+}
+
+.news-box p {
+  text-align: justify;
+  text-justify: inter-word;
+}
