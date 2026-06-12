@@ -278,3 +278,14 @@ footer {
 .position-card .position-title {
   text-align: center;
 }
+
+.position-card p {
+  font-size: 18px;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.recruiting-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
