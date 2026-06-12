@@ -298,3 +298,15 @@ footer {
   text-align: justify;
   text-justify: inter-word;
 }
+
+.homepage-link {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.lab-description {
+  text-align: justify;
+  text-justify: inter-word;
+}
