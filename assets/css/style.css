@@ -162,10 +162,21 @@ footer {
     font-size: 36px;
   }
 
-  .news-item {
-    grid-template-columns: 1fr;
-    gap: 4px;
-  }
+.news-box {
+  padding: 24px 24px;
+}
+
+.news-box h2 {
+  font-size: 30px;
+}
+
+.news-entry h3 {
+  font-size: 23px;
+}
+
+.news-entry p {
+  font-size: 19px;
+}
 
   .person {
     grid-template-columns: 1fr;
