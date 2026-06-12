@@ -191,3 +191,41 @@ footer {
   display: block;
   width: 100%;
 }
+
+.news-box {
+  background-color: #eef4fb;
+  border-left: 7px solid #003f7f;
+  border-radius: 4px;
+  padding: 32px 38px;
+  margin-top: 42px;
+  margin-bottom: 36px;
+}
+
+.news-box h2 {
+  font-size: 34px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 26px;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.news-entry {
+  margin-bottom: 22px;
+}
+
+.news-entry:last-child {
+  margin-bottom: 0;
+}
+
+.news-entry h3 {
+  font-size: 26px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+}
+
+.news-entry p {
+  font-size: 22px;
+  margin: 0;
+  line-height: 1.55;
+}
