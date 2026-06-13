@@ -171,8 +171,8 @@ a {
 /* News box */
 
 .news-box {
-  background-color: #eef4fb;
-  border-left: 7px solid #003f7f;
+  background-color: #eaf7f2;
+  border-left: 7px solid #008080;
   border-radius: 4px;
   padding: 32px 38px;
   margin-top: 42px;
@@ -530,4 +530,9 @@ footer {
   margin: 0 !important;
   padding: 0 !important;
   font-weight: normal !important;
+}
+
+.green-text {
+  color: #008080;
+  font-weight: bold;
 }
