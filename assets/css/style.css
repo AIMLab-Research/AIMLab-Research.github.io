@@ -4,18 +4,27 @@ body {
   color: #222;
   background: #ffffff;
   line-height: 1.65;
+  overflow-y: scroll;
 }
 
 /* Header */
+
+.site-header-wrapper {
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  z-index: 100;
+  border-bottom: 1px solid #d9d9d9;
+}
 
 .site-header {
   max-width: 960px;
   margin: 0 auto;
   padding: 34px 24px 18px 24px;
-  border-bottom: 1px solid #d9d9d9;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: none;
 }
 
 .header-title {
