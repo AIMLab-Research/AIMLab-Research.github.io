@@ -38,6 +38,7 @@ body {
   color: #008080;
   text-decoration: none;
   font-weight: bold;
+  font-style: italic;
 }
 
 .lab-subtitle {
@@ -440,6 +441,7 @@ footer {
   color: #008080 !important;
   text-decoration: none !important;
   font-weight: bold !important;
+  font-style: italic !important;
 }
 
 .lab-subtitle {
